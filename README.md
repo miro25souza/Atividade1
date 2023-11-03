@@ -6,7 +6,7 @@ Como Usar
 
 1. Instale as bibliotecas necessárias executando `pip install numpy scipy matplotlib`.
 
-2. Execute o código Python `ajuste_de_curva.py`.
+2. Execute o código Python `Atividade_1.py`.
 
 3. Uma janela interativa aparecerá, permitindo que você insira a hora desejada.
 
