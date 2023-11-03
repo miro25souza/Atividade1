@@ -16,7 +16,7 @@ Exemplo de Gráfico
 
 Exemplo de Gráfico
 
-![Gráfico de Ajuste de Curva](./Figura.png)
+![Gráfico de Ajuste de Curva](./Figura_1.png)
 
 Contribuição
 
